@@ -1,2 +1,2 @@
-# demo
+# JS
 this git for learn
