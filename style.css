@@ -1,0 +1,102 @@
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainImg{
+    width: 35%;
+}
+
+.box{
+    border: 0.25px solid black;
+    background-color: lightgray;
+    width: 200px;
+    padding: 1rem;
+}
+
+.boxLink{
+    text-decoration: none;
+}
+.oldImg{
+    height: 200px;
+    width: 200px;
+    margin-right: 1rem;
+}
+
+#description{
+    background-color: antiquewhite;
+} */
+/* 
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+.box{
+    background-color:pink;
+    border: 1px, solid black;
+}
+
+#btnStyle{
+    color: blue;
+    
+} */
+/* body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: darkseagreen;
+    border: 1px solid black;
+} */
+
+
+/* body{
+    text-align: center;
+    background-color: black;
+    
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid bisque;
+    border-radius: 20%;
+    margin: 2rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #f99b45;
+}
+.yellow{
+    background-color: #d95980;
+}
+.green{
+    background-color: #819ff9;
+}
+.purple{
+    background-color: #63aac0;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: #297045;
+}
+#h1,h2{
+    color: burlywood;
+} */
